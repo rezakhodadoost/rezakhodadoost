@@ -1,6 +1,4 @@
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=600&lines=Hi+I'm+Reza;Backend+Developer;Python+Developer" />
-</p>
+<p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=600&lines=Hi+I'm+Reza;Backend+Developer;Python+Developer"</p>
 
 💻 **Python & Web Developer**
 

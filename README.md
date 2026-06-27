@@ -27,10 +27,10 @@
 
 <img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,postgres,mysql,sqlite,git,github,docker,opencv" />
 ---
-
-![Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezakhodadoost&show_icons=true&theme=tokyonight)![GitHub Streak](https://streak-stats.demolab.com?user=rezakhodadoost&theme=tokyonight)
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rezakhodadoost&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://streak-stats.demolab.com?user=rezakhodadoost&theme=tokyonight" height="180" />
+</p>
 
 
 > 💡 *"Turning great ideas into reality through code."*

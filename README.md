@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="octo.gif" width="600">
+</p>
 
 💻 **Python & Web Developer**
 

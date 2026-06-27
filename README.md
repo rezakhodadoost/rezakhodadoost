@@ -1,1 +1,44 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=19&pause=1000&color=F7AC7B&random=true&width=435&lines=%23+Hello+there+%F0%9F%91%8B+%23%23+Hi%2C+I'm+Reza!+%E2%9C%A8+%F0%9F%92%A1+I+always+come+up+with+creative+and+innovative+ideas.+%F0%9F%92%BB+**Python+%26+Web+Developer**+-+%F0%9F%8C%B1+I'm+currently+learning+**Ai**%2C+**Docker**%2C+and+**Django+REST+Framework**+-+%F0%9F%9A%80+I'm+passionate+about+Backend+Development.+-+%F0%9F%A4%9D+I'm+open+to+collaboration+and+exciting+opportunities.+-+%F0%9F%92%AC+Ask+me+about+**Python%2C+Django%2C+PostgreSQL%2C+HTML%2C+and+Web+Development**.+-+%F0%9F%8E%AF+My+goal+is+to+build+useful+products+that+solve+real-world+problems+-+%F0%9F%93%AB+Reach+me+at%3A+**rezakhodadoosttohidi%40example.com**+%23%23%23+Connect+with+me+-+GitHub%3A+https%3A%2F%2Fgithub.com%2Frezakhodadoost+-+LinkedIn%3A+https%3A%2F%2Fwww.linkedin.com%2Fin%2Freza-khodadoost-tohidi-693640368%2F+%23%23%23+Languages+and+Tools+Python+%E2%80%A2+Django+%E2%80%A2+JavaScript+%E2%80%A2+HTML+%E2%80%A2+CSS+%E2%80%A2+Bootstrap+%E2%80%A2+PostgreSQL+%E2%80%A2+MySQL+%E2%80%A2+SQLite+%E2%80%A2+Git+%E2%80%A2+GitHub+%E2%80%A2+OpenCV+---+%3E+*%22Turning+great+ideas+into+reality+through+code.%22*+%F0%9F%9A%80)](https://git.io/typing-svg)
+# Hello there 👋
+
+## Hi, I'm Reza! ✨
+
+💡 I always come up with creative and innovative ideas.
+
+💻 **Python & Web Developer**
+
+* 🌱 I'm currently learning **AI**, **Docker**, and **Django REST Framework**
+* 🚀 I'm passionate about **Backend Development**
+* 🤝 I'm open to collaboration and exciting opportunities
+* 💬 Ask me about **Python, Django, PostgreSQL, HTML, and Web Development**
+* 🎯 My goal is to build useful products that solve real-world problems
+* 📫 Reach me at: **[rezakhodadoosttohidi@example.com](mailto:rezakhodadoosttohidi@example.com)**
+
+## 🌐 Connect with me
+
+* 💻 GitHub: https://github.com/rezakhodadoost
+* 💼 LinkedIn: https://www.linkedin.com/in/reza-khodadoost-tohidi-693640368/
+
+## 🛠️ Languages and Tools
+
+* Python
+* Django
+* JavaScript
+* HTML
+* <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="256" rx="60" fill="#0277BD"/>
+<path d="M53.7527 102.651L56.6155 134.593H128.096V102.651H53.7527Z" fill="#EBEBEB"/>
+<path d="M128.095 38H127.985H48L50.9036 69.9423H128.095V38Z" fill="#EBEBEB"/>
+<path d="M128.095 218.841V185.608L127.955 185.645L92.3813 176.04L90.1072 150.564H72.821H58.0425L62.5175 200.718L127.948 218.882L128.095 218.841Z" fill="#EBEBEB"/>
+<path d="M167.318 134.593L163.61 176.019L127.985 185.635V218.866L193.468 200.718L193.948 195.321L201.454 111.229L202.233 102.651L208 38H127.985V69.9423H172.994L170.088 102.651H127.985V134.593H167.318Z" fill="white"/>
+</svg>
+* Bootstrap
+* PostgreSQL
+* MySQL
+* SQLite
+* Git
+* GitHub
+* OpenCV
+
+---
+
+> 💡 *"Turning great ideas into reality through code."* 🚀

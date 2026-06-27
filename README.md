@@ -28,8 +28,6 @@
 
 ![](https://komarev.com/ghpvc/?username=rezakhodadoost&color=blue)
 ![](https://visitor-badge.laobi.icu/badge?page_id=USERNAME.USERNAME)
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/USERNAME&count_bg=%2379C83D&title_bg=%23555555)
-![](https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=blue)
 
 
 <p align="center">

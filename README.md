@@ -1,4 +1,4 @@
-<img width="1914" height="922" alt="image" src="https://github.com/user-attachments/assets/8d2c52c8-b13e-4897-814c-f9ff5b70a4d9" />
+
 
 💻 **Python & Web Developer**
 

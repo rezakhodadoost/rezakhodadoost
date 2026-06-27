@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="octo.gif" width="600">
+  <img src="octo.gif" width="400">
 </p>
 
 💻 **Python & Web Developer**

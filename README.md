@@ -1,6 +1,7 @@
 <p align="center">
   <img src="octo.gif" width="200">
-</p>
+</p> 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EFF77C&width=435&lines=Welcome+To+My+GitHub+Profile+!)](https://git.io/typing-svg)
 
 💻 **Python & Web Developer**

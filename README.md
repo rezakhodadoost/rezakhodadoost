@@ -21,7 +21,10 @@
 ---
 
 > 💡 *"Turning great ideas into reality through code."*
- uses: Platane/snk@v3
+
+>
+>
+>uses: Platane/snk@v3
   with:
     # github user name to read the contribution graph from (**required**)
     # using action context var `github.repository_owner` or specified user

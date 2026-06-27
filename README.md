@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=600&lines=Hi+I'm+Reza;Backend+Developer;Python+Developer;Always+Learning..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=600&lines=Hi+I'm+Reza;Backend+Developer;Python+Developer" />
 </p>
 
 <p align="center">
@@ -28,13 +28,9 @@
 <img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,postgres,mysql,sqlite,git,github,docker,opencv" />
 ---
 
-![Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezakhodadoost&show_icons=true&theme=tokyonight)
+![Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezakhodadoost&show_icons=true&theme=tokyonight)  ![GitHub Streak](https://streak-stats.demolab.com?user=rezakhodadoost&theme=tokyonight)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rezakhodadoost&layout=compact&theme=tokyonight)
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rezakhodadoost&theme=tokyonight)
 
 
 > 💡 *"Turning great ideas into reality through code."*

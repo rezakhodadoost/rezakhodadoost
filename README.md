@@ -28,7 +28,7 @@
 <img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,postgres,mysql,sqlite,git,github,docker,opencv" />
 ---
 
-![Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezakhodadoost&show_icons=true&theme=tokyonight)  ![GitHub Streak](https://streak-stats.demolab.com?user=rezakhodadoost&theme=tokyonight)
+![Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezakhodadoost&show_icons=true&theme=tokyonight) ![GitHub Streak](https://streak-stats.demolab.com?user=rezakhodadoost&theme=tokyonight)
 
 
 

@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=rezakhodadoost&color=blue)
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=600&lines=Hi+I'm+Reza;Backend+Developer;Python+Developer;Always+Learning..." />
 </p>
@@ -23,6 +22,12 @@
 <a href="https://www.linkedin.com/in/reza-khodadoost-tohidi-693640368/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 
 
+
+## Languages and Tools
+
+<img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,postgres,mysql,sqlite,git,github,docker,opencv" />
+---
+
 ![Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezakhodadoost&show_icons=true&theme=tokyonight)
 
 
@@ -32,14 +37,12 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=rezakhodadoost&theme=tokyonight)
 
 
-## Languages and Tools
-
-<img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,postgres,mysql,sqlite,git,github,docker,opencv" />
----
-
 > 💡 *"Turning great ideas into reality through code."*
+
+![](https://komarev.com/ghpvc/?username=rezakhodadoost&color=blue)
 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rezakhodadoost/rezakhodadoost/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
+

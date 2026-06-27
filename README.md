@@ -7,7 +7,6 @@
   <img src="octo.gif" width="200">
 </p> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EFF77C&width=435&lines=Welcome+To+My+GitHub+Profile+!)](https://git.io/typing-svg)
 
 💻 **Python & Web Developer**
 
@@ -23,10 +22,17 @@
 <p align="left"> <a href="https://github.com/rezakhodadoost" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
 <a href="https://www.linkedin.com/in/reza-khodadoost-tohidi-693640368/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 
-## Languages and Tools
+
 ![Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezakhodadoost&show_icons=true&theme=tokyonight)
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rezakhodadoost&layout=compact&theme=tokyonight)
+
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=rezakhodadoost&theme=tokyonight)
+
+
+## Languages and Tools
 
 <img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,postgres,mysql,sqlite,git,github,docker,opencv" />
 ---

@@ -1,3 +1,8 @@
+![](https://komarev.com/ghpvc/?username=rezakhodadoost&color=blue)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=600&lines=Hi+I'm+Reza;Backend+Developer;Python+Developer;Always+Learning..." />
+</p>
+
 <p align="center">
   <img src="octo.gif" width="200">
 </p> 
@@ -11,7 +16,7 @@
 * 🤝 I'm open to collaboration and exciting opportunities
 * 💬 Ask me about **Python, Django, PostgreSQL, HTML, and Web Development**
 * 🎯 My goal is to build useful products that solve real-world problems
-* 📫 Reach me at: **[rezakhodadoosttohidi@example.com](mailto:rezakhodadoosttohidi@example.com)**
+* 📫 Reach me at: **[rezakhodadoosttohidi@example.com](mailto:rezakhodadoosttohidi@gmail.com)**
 
 ##  Connect with me
 
@@ -19,6 +24,9 @@
 <a href="https://www.linkedin.com/in/reza-khodadoost-tohidi-693640368/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 
 ## Languages and Tools
+![Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezakhodadoost&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rezakhodadoost&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=rezakhodadoost&theme=tokyonight)
 
 <img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,postgres,mysql,sqlite,git,github,docker,opencv" />
 ---

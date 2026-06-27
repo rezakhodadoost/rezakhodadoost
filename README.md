@@ -1,4 +1,4 @@
-```markdown
+
 # Hello there 👋
 
 ## Hi, I'm Reza! ✨
@@ -26,4 +26,4 @@ Python • Django  • JavaScript  • HTML • CSS • Bootstrap • PostgreSQL
 ---
 
 > *"Turning great ideas into reality through code."* 🚀
-```
+

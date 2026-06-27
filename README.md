@@ -27,7 +27,9 @@
 > 💡 *"Turning great ideas into reality through code."*
 
 ![](https://komarev.com/ghpvc/?username=rezakhodadoost&color=blue)
-
+![](https://visitor-badge.laobi.icu/badge?page_id=USERNAME.USERNAME)
+![](https://img.shields.io/github/stars/USERNAME/REPO?style=for-the-badge)
+![](https://img.shields.io/github/license/USERNAME/REPO?style=for-the-badge)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rezakhodadoost/rezakhodadoost/output/github-snake-dark.svg" alt="Snake animation" />

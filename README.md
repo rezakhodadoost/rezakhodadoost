@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EFF77C&width=435&lines=Hello+there)](https://git.io/typing-svg)
 
- I always come up with creative and innovative ideas.
+    I always come up with creative and innovative ideas.
 💻 **Python & Web Developer**
 
 * 🌱 I'm currently learning **AI**, **Docker**, and **Django REST Framework**

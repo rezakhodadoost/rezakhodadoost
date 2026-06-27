@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="octo.gif" width="400">
+  <img src="octo.gif" width="200">
 </p>
+## Welcome To My GitHub Profile !
 
 💻 **Python & Web Developer**
 

@@ -20,19 +20,7 @@
 
 ## 🛠️ Languages and Tools
 
-* Python
-* Django
-* JavaScript
-* HTML
-<img src="https://skillicons.dev/icons?i=css,django,flask,html,js,mongodb,mysql,nodejs,postgres,python,react,selenium,sqlite" />
-* Bootstrap
-* PostgreSQL
-* MySQL
-* SQLite
-* Git
-* GitHub
-* OpenCV
-
+<img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,postgres,mysql,sqlite,git,github,docker,opencv" />
 ---
 
 > 💡 *"Turning great ideas into reality through code."* 🚀

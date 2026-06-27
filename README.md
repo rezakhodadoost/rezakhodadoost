@@ -28,10 +28,9 @@
 
 ![](https://komarev.com/ghpvc/?username=rezakhodadoost&color=blue)
 ![](https://visitor-badge.laobi.icu/badge?page_id=USERNAME.USERNAME)
-![](https://img.shields.io/github/stars/USERNAME/REPO?style=for-the-badge)
-![](https://img.shields.io/github/license/USERNAME/REPO?style=for-the-badge)
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/USERNAME&count_bg=%2379C83D&title_bg=%23555555)
 ![](https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=blue)
-![](https://img.shields.io/github/followers/USERNAME?style=for-the-badge)
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rezakhodadoost/rezakhodadoost/output/github-snake-dark.svg" alt="Snake animation" />

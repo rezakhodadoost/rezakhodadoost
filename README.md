@@ -27,11 +27,10 @@
 
 <img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,postgres,mysql,sqlite,git,github,docker,opencv" />
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezakhodadoost&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://streak-stats.demolab.com?user=rezakhodadoost&theme=tokyonight" height="180" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rezakhodadoost&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=rezakhodadoost&theme=tokyonight" width="45%" />
+</div>
 
 > 💡 *"Turning great ideas into reality through code."*
 

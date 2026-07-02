@@ -9,7 +9,7 @@
 * 🤝 I'm open to collaboration and exciting opportunities
 * 💬 Ask me about **Python, Django, PostgreSQL, HTML, and Web Development**
 * 🎯 My goal is to build useful products that solve real-world problems
-* 📫 Reach me at: **[rezakhodadoosttohidi@example.com](mailto:rezakhodadoosttohidi@gmail.com)**
+* 📫 Reach me at: **[rezakhodadoosttohidi@gmail.com](mailto:rezakhodadoosttohidi@gmail.com)**
 
 ##  Connect with me
 

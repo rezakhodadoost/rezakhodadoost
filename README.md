@@ -20,7 +20,7 @@
 
 ## Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,postgres,mysql,sqlite,git,github,docker,opencv,Linux," />
+<img src="https://skillicons.dev/icons?i=python,django,postgres,docker,linux,git,github,js,html,css,bootstrap,postman" />
 ---
 
 

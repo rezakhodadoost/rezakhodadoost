@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Reza+%F0%9F%91%8B;Backend+Developer;Python+Developer+;Building+Amazing+Things+%E2%9A%A1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Reza+%F0%9F%91%8B;Backend+Developer;Building+Amazing+Things+%E2%9A%A1" />
 </p>
 
 💻 **Python & Web Developer**
@@ -20,7 +20,7 @@
 
 ## Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,postgres,mysql,sqlite,git,github,docker,opencv" />
+<img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,postgres,mysql,sqlite,git,github,docker,opencv,Linux" />
 ---
 
 

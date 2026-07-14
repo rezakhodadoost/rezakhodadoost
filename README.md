@@ -1,36 +1,76 @@
+<h1 align="center">Hi, I'm Reza 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Reza+%F0%9F%91%8B;Backend+Developer;Building+Amazing+Things+%E2%9A%A1" />
+  <img src=https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Building+Scalable+Systems+%E2%9A%A1;Python+Enthusiast" />
 </p>
 
-💻 **Python & Web Developer**
+<p align="center">
+  🚀 <b>Passionate about building robust backend architecture and solving complex real-world problems through efficient code.</b>
+</p>
 
-* 🌱 I'm currently learning **AI**, **Docker**, and **Django REST Framework**
-* 🚀 I'm passionate about **Backend Development**
-* 🤝 I'm open to collaboration and exciting opportunities
-* 💬 Ask me about **Python, Django, PostgreSQL, HTML, and Web Development**
-* 🎯 My goal is to build useful products that solve real-world problems
-* 📫 Reach me at: **[rezakhodadoosttohidi@gmail.com](mailto:rezakhodadoosttohidi@gmail.com)**
-
-##  Connect with me
-
-<p align="left"> <a href="https://github.com/rezakhodadoost" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
-<a href="https://www.linkedin.com/in/reza-khodadoost-tohidi-693640368/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
-
-
-
-## Languages and Tools
-
-<img src="https://skillicons.dev/icons?i=python,django,postgres,docker,linux,git,github,js,html,css,bootstrap,postman,opencv" />
 ---
 
+### 👨‍💻 About Me
 
-> 💡 *"Turning great ideas into reality through code."*
+I am a **Backend Developer** focused on creati efficient, scalable, and maintainable server-side applications. I love diving deep into how things work under the hood and optimizing performance.
 
-![](https://komarev.com/ghpvc/?username=rezakhodadoost&color=blue)
-![](https://visitor-badge.laobi.icu/badge?page_id=USERNAME.USERNAME)
+* � **Currently working on:** Enhancing my expertise in **AI Integration** and **Cloud-Native Development**.
+* 🌱 **Learning Path:** Deep diving into *Docker**, **Django REST Framework (DRF)**, and **System Design**.
+* 💬 *Ask me about:** Python, Django, PostgreSQL, and Web Technologies.
+* 🤝 *Collaboration:** I'm open to contributing to Open Source projects and exciting backend opportunities.
+* 📫 **Get in touch:** [rezakhodadoosttohidi@gmai.com](mailto:rezakhodadoosttohidi@gmail.com)
 
+---
+
+### 🛠 Tech Stack
+
+### **Languages & Frameworks**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap" />
+</p>
+
+#### **Databases & DevOps**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,docker,linux,git,github,postman" />
+</p>
+
+#### **Specialized Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=opencv" />
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readm-stats.vercel.app/api?username=rezakhodadoost&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Reza's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezakhodadoost&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
+</p>
+
+---
+
+### 📬 Connect with Me
+
+<p align="left">
+<a hre="https://www.linkedin.com/in/reza-khodadoost-tohidi-693640368/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/rezakhodadoost" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rezakhodadoost/rezakhodadoost/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
+<p align="center">
+  <i>"Turning great ideas into reality through code."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rezakhodadoost&color=blue" alt="visitor count" />
+</p>

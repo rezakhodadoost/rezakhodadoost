@@ -44,9 +44,16 @@ I am a **Backend Developer** focused on creati efficient, scalable, and maintain
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rezakhodadoost&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-
-  <img width="49%" src="https://streak-stats.demolab.com?user=rezakhodadoost&theme=radical&hide_border=true" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=rezakhodadoost&show_icons=true&theme=radical&hide_border=true&count_private=true"
+    alt="GitHub Stats"
+    width="49%"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=rezakhodadoost&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+    width="49%"
+  />
 </p>
 ---
 

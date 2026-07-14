@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Reza 👋</h1>
 
 <p align="center">
-  <img src=https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Building+Scalable+Systems+%E2%9A% />
+  <img src=https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Building+Scalable+Systems />
 </p>
 
 <p align="center">
